@@ -1,0 +1,430 @@
+{
+  "basic_metadata_widget_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAADAAAA5wAAAWMAAAEKAf////8BAAAAAQA="
+  },
+  "book_details_splitter_horizontal_state": [
+    true,
+    200
+  ],
+  "book_list_pin_splitter_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
+  },
+  "card_a_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 86,
+      "collections": 96,
+      "inlibrary": 89,
+      "size": 52,
+      "timestamp": 70,
+      "title": 56
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "card_b_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 86,
+      "collections": 96,
+      "inlibrary": 89,
+      "size": 52,
+      "timestamp": 70,
+      "title": 56
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "cover_browser_splitter_vertical_state": [
+    false,
+    300
+  ],
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "do_not_show_device_open_popup_message_KINDLE2": true,
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 1055,
+      "width": 1920,
+      "x": 0,
+      "y": 25
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1051,
+      "width": 1916,
+      "x": 2,
+      "y": 27
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1051,
+      "width": 1916,
+      "x": 2,
+      "y": 27
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGQAAB38AAAQ3AAAAAgAAABsAAAd9AAAENQAAAAAAAAAAB4AAAAACAAAAGwAAB30AAAQ1"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-metasingle_window_geometry3": {
+    "frame_geometry": {
+      "height": 1055,
+      "width": 960,
+      "x": 960,
+      "y": 25
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1051,
+      "width": 956,
+      "x": 962,
+      "y": 27
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 1051,
+      "width": 956,
+      "x": 962,
+      "y": 27
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAPAAAAAGQAAB38AAAQ3AAADwgAAABsAAAd9AAAENQAAAAAAAAAAB4AAAAPCAAAAGwAAB30AAAQ1"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "grid view visible": false,
+  "library_usage_stats": {
+    "/home/doniyorziyod/Documents/books/calibre": 4
+  },
+  "memory_view books view state": {
+    "column_alignment": {
+      "size": "center",
+      "timestamp": "center"
+    },
+    "column_positions": {
+      "authors": 2,
+      "collections": 5,
+      "inlibrary": 0,
+      "size": 4,
+      "timestamp": 3,
+      "title": 1
+    },
+    "column_sizes": {
+      "authors": 231,
+      "collections": 96,
+      "inlibrary": 89,
+      "size": 60,
+      "timestamp": 94,
+      "title": 350
+    },
+    "formats_injected": true,
+    "hidden_columns": [],
+    "id_injected": true,
+    "languages_injected": true,
+    "last_modified_injected": true,
+    "path_injected": true,
+    "sort_history": [
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ],
+      [
+        "inlibrary",
+        false
+      ],
+      [
+        "timestamp",
+        false
+      ]
+    ]
+  },
+  "quick_start_guide_added": true,
+  "quickview visible": false,
+  "recently_used_languages": [],
+  "search bar visible": true,
+  "tag browser search box visible": false,
+  "tag_browser_splitter_horizontal_state": [
+    true,
+    200
+  ]
+}
