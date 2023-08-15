@@ -23,6 +23,9 @@ alias g git
 alias hx helix
 alias vi nvim
 
+setxkbmap -layout us,ru
+setxkbmap -option 'grp:alt_shift_toggle'
+
 set -gx EDITOR nvim
 
 set -gx PATH bin $PATH
