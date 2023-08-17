@@ -11,7 +11,7 @@ set -g theme_hostname always
 
 # aliases
 alias x "tmux"
-alias \q "exit"
+alias q exit
 alias c "clear"
 alias t "tree"
 alias sql "psql -U doniyor -d postgres"
@@ -22,6 +22,7 @@ alias lla "ll -A"
 alias g git
 alias hx helix
 alias vi nvim
+alias neo neovide
 
 setxkbmap -layout us,ru
 setxkbmap -option 'grp:alt_shift_toggle'

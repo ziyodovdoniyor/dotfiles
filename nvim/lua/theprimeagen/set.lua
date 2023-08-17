@@ -13,9 +13,9 @@ hl('Normal', { bg = 'none' })
 vim.o.background = "dark" -- or "light" for light mode
 vim.cmd([[colorscheme gruvbox]])
 
-if vim.g.neovide then
-    vim.o.guifont = "Fira Code:h11"
-end
+--If vim.g.neovide then
+--    vim.o.guifont = "Fira Code:h10"
+--End
 
 g.mapleader = ' '
 o.guicursor = ""
@@ -51,3 +51,5 @@ o.colorcolumn = '70'
 o.shell= "/usr/bin/fish"
 o.smarttab = true
 o.showmode = true
+o.guifont = "Fira Code:h10"
+g.neovide_theme = 'light'
