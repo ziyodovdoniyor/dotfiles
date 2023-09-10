@@ -42,3 +42,9 @@ autostart
 audacity
 ./pavucontrol.ini
 ./nvim/plugin/
+Google
+gedit
+omf
+syncthing
+./.gsd-keyboard.settings-ported
+./pavucontrol.ini
