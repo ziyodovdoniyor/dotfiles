@@ -40,3 +40,5 @@ Kvantum
 calibre
 autostart
 audacity
+./pavucontrol.ini
+./nvim/plugin/

@@ -1,6 +1,6 @@
 include $HOME/.config/i3/config.d/*
 
-#hide_edge_borders                smart
+hide_edge_borders                smart
 #gaps inner                       7
 #gaps outer                      -1
 #workspace_auto_back_and_forth    no
@@ -38,9 +38,9 @@ mode "resize" {
         bindsym $mod+r mode "default"
 }
 
-for_window                       [workspace=88] layout tabbed
-for_window                       [workspace=99] layout tabbed
-for_window                       [all] border pixel 2
+#for_window                       [workspace=88] layout tabbed
+#for_window                       [workspace=99] layout tabbed
+#for_window                       [all] border pixel 2
 
 exec_always "setxkbmap -layout us,ru"
 exec_always "setxkbmap -option 'grp:alt_shift_toggle'"

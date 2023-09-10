@@ -5,7 +5,8 @@ lsp.preset("recommended")
 lsp.ensure_installed({
   'rust_analyzer',
   'gopls',
-  'clangd'
+  'clangd',
+  'marksman'
 })
 
 -- Fix Undefined global 'vim'
@@ -14,11 +15,11 @@ lsp.nvim_workspace()
 
 local cmp = require('cmp')
 
-cmp.setup {
-    completion = {
-        autocomplete = false
-    },
-}
+-- cmp.setup {
+--     completion = {
+--         autocomplete = false
+--     },
+-- }
 
 local cmp_select = {behavior = cmp.SelectBehavior.Select}
 local cmp_mappings = lsp.defaults.cmp_mappings({

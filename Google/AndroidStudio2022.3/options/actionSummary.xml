@@ -1,0 +1,280 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1694326481993" />
+    </e>
+    <e n="$Delete">
+      <i c="3" l="1693978113407" />
+    </e>
+    <e n="$SelectAll">
+      <i c="1" l="1693833984815" />
+    </e>
+    <e n="$Undo">
+      <i c="4" l="1693988283696" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="6" l="1694335455057" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="132" l="1694335449530" />
+    </e>
+    <e n="Adtui.ZoomOutAction">
+      <i c="4" l="1693977983573" />
+    </e>
+    <e n="Android.AdbDevicePairing">
+      <i c="2" l="1694326201515" />
+    </e>
+    <e n="Android.CreateResourceDirectory">
+      <i c="2" l="1694325288401" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="1" l="1694327148268" />
+    </e>
+    <e n="CheckinProject">
+      <i c="1" l="1693983572928" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="8" l="1694335466630" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="144" l="1694340711189" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="88" l="1694340707006" />
+    </e>
+    <e n="EditorDelete">
+      <i c="34" l="1693984082197" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="14" l="1694335467948" />
+    </e>
+    <e n="EditorDown">
+      <i c="33" l="1694335495325" />
+    </e>
+    <e n="EditorEnter">
+      <i c="67" l="1694335487924" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1694334668748" />
+    </e>
+    <e n="EditorLeft">
+      <i c="1" l="1694325052164" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="3" l="1694325768309" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1693814967830" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="4" l="1694325764509" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1693988282161" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1693977152557" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1693983040316" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" d="1" l="1694325187900" k="1693828882479" />
+    </e>
+    <e n="EditorUp">
+      <i c="8" l="1694335494682" />
+    </e>
+    <e n="GotoAction">
+      <i c="5" l="1693833933590" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1694326126954" />
+    </e>
+    <e n="NavBarLocationHide">
+      <i c="1" l="1693833716338" />
+    </e>
+    <e n="NewAndroidVectorAsset">
+      <i c="3" l="1694325834000" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1694335506929" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1694327142802" />
+    </e>
+    <e n="ProjectView.AutoscrollToSource">
+      <i c="1" l="1693975656036" />
+    </e>
+    <e n="ProjectView.FlattenPackages">
+      <i c="4" l="1693975648969" />
+    </e>
+    <e n="ProjectView.HideEmptyMiddlePackages">
+      <i c="2" l="1693975645632" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1693982646137" />
+    </e>
+    <e n="Run">
+      <i c="3" l="1694326956153" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1693833878626" />
+    </e>
+    <e n="SaveAll">
+      <i c="7" l="1694325067406" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="41" l="1694335460391" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="13" l="1693833962561" />
+    </e>
+    <e n="ShowErrorDescription">
+      <i c="1" d="1" l="1694326422154" k="1694326422154" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="4" l="1694325055740" />
+    </e>
+    <e n="ShowSettings">
+      <i c="13" l="1693833964959" />
+    </e>
+    <e n="Switcher">
+      <i c="2" l="1693834218094" />
+    </e>
+    <e n="TabsActions">
+      <i c="1" d="1" l="1693828873629" k="1693828873629" />
+    </e>
+    <e n="ToggleDistractionFreeMode">
+      <i c="2" l="1693833902399" />
+    </e>
+    <e n="ToggleZenMode">
+      <i c="6" l="1693833568328" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="89" l="1694334832683" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="103" l="1694335450823" />
+    </e>
+    <e n="Vcs.QuickListPopupAction">
+      <i c="7" l="1694327126678" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1693814938671" />
+    </e>
+    <e n="ViewInplaceComments">
+      <i c="2" l="1693834200045" />
+    </e>
+    <e n="ViewMainMenu">
+      <i c="3" l="1693834166911" />
+    </e>
+    <e n="ViewMembersInNavigationBar">
+      <i c="1" l="1693834204547" />
+    </e>
+    <e n="ViewMenu">
+      <i c="22" d="22" l="1693834202073" k="1693834202073" />
+    </e>
+    <e n="ViewNavigationBar">
+      <i c="3" l="1693834183568" />
+    </e>
+    <e n="ViewStatusBar">
+      <i c="3" l="1693834194379" />
+    </e>
+    <e n="ViewToolBar">
+      <i c="2" l="1693834171514" />
+    </e>
+    <e n="ViewToolButtons">
+      <i c="3" l="1693834188488" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" d="1" l="1693828067078" k="1693828067078" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+      <i c="3" l="1694324639743" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+      <i c="1" l="1693983617188" />
+    </e>
+    <e n="com.intellij.ide.actions.CollapseAllAction">
+      <i c="2" l="1693834032321" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="1" l="1693832960340" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
+      <i c="5" l="1693975704692" />
+    </e>
+    <e n="com.intellij.ide.actions.searcheverywhere.SearchEverywhereFiltersAction">
+      <i c="2" l="1693977062680" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconAction">
+      <i c="1" l="1693828002642" />
+    </e>
+    <e n="com.intellij.ide.ui.customization.CustomizableActionsPanel$RemoveAction">
+      <i c="228" l="1693833245165" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1693826170960" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="4" l="1693833072100" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="417" l="1694340711189" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="2" l="1693833557103" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
+      <i c="1" l="1693833554738" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="43" l="1694335461894" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="3" l="1693978114165" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="4" l="1693833573739" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
+      <i c="2" l="1693975663522" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1693833569612" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="9" l="1694327059011" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="5" l="1693975701429" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="5" l="1694325095293" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectNextAction">
+      <i c="1" l="1694324635704" />
+    </e>
+    <e n="com.intellij.ui.tabs.impl.JBTabsImpl$SelectPreviousAction">
+      <i c="2" l="1694324633397" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.VimEmulationConfigurable$ResetHandlersAction">
+      <i c="1" l="1693833390352" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="9" l="1694325067320" />
+    </e>
+    <e n="org.jetbrains.android.actions.CreateResourceFileActionGroup$1">
+      <i c="1" l="1693983519066" />
+    </e>
+    <e n="org.jetbrains.android.actions.CreateTypedResourceFileAction">
+      <i c="1" l="1694325332115" />
+    </e>
+    <e n="template.create.ActivityEmpty Views Activity">
+      <i c="1" l="1693977894999" />
+    </e>
+    <e n="template.create.FragmentFragment (Blank)">
+      <i c="2" l="1693988321483" />
+    </e>
+  </component>
+</application>

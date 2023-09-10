@@ -5,7 +5,7 @@ window:
   class:
     instance: Alacritty
     general: Alacritty
-background_opacity: 0.7
+  opacity: 1
 
 scrolling:
   history: 10000
@@ -25,8 +25,11 @@ draw_bold_text_with_brigfont:
     family: Fira Code
     style: Bold Italic
 
-import:
-  - ~/.config/alacritty/gruvbox.yml
+font:
+  size: 8.0
+
+    #import:
+    #  - ~/.config/alacritty/gruvbox.yml
 
 selection:
   save_to_clipboard: false

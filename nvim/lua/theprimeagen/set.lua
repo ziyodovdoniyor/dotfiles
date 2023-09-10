@@ -10,13 +10,14 @@ end
 hl('SignColumn', { bg = 'none' })
 hl('Normal', { bg = 'none' })
 
-vim.o.background = "dark" -- or "light" for light mode
-vim.cmd([[colorscheme gruvbox]])
+-- vim.o.background = "dark" -- or "light" for light mode
+-- vim.cmd([[colorscheme gruvbox]])
 
 --If vim.g.neovide then
 --    vim.o.guifont = "Fira Code:h10"
 --End
 
+cmd([[colorscheme lunaperche]])
 g.mapleader = ' '
 o.guicursor = ""
 o.cursorline = true
@@ -51,5 +52,6 @@ o.colorcolumn = '70'
 o.shell= "/usr/bin/fish"
 o.smarttab = true
 o.showmode = true
-o.guifont = "Fira Code:h10"
-g.neovide_theme = 'light'
+o.guifont = "Bahij Greta Arabic:h8"
+o.encoding = "utf-8"
+o.arabicshape = true

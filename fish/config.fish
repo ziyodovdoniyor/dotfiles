@@ -21,7 +21,7 @@ alias ll "ls -l"
 alias lla "ll -A"
 alias g git
 alias hx helix
-alias vi nvim
+alias vim nvim
 alias neo neovide
 
 setxkbmap -layout us,ru
@@ -32,15 +32,12 @@ set -gx EDITOR nvim
 set -gx PATH bin $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
+set -gx PATH ~/.config/i3/scripts/ $PATH
 
 # NodeJS
 set -gx PATH node_modules/.bin $PATH
 
 # Go
-set -g GOPATH $HOME/go
-set -gx PATH $GOPATH/bin $PATH
-
-# Rust
 
 # NVM
 function __check_rvm --on-variable PWD --description 'Do nvm stuff'

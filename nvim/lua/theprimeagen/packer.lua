@@ -1,10 +1,6 @@
--- This file can be loaded by calling `lua require('plugins')` from your init.vim
-
--- Only required if you have packer configured as `opt`
 vim.cmd.packadd('packer.nvim')
 
 return require('packer').startup(function(use)
-  -- Packer can manage itself
   use 'wbthomason/packer.nvim'
 
   use {
@@ -14,16 +10,28 @@ return require('packer').startup(function(use)
   }
 
   -- Themes:
-  use({
-	  'rose-pine/neovim'
+--  use({
+--	  'rose-pine/neovim',
 --	  as = 'rose-pine',
 --	  config = function()
 --		  vim.cmd('colorscheme rose-pine')
 --	  end
-  })
-  use 'doums/darcula'
-  use('Mofiqul/vscode.nvim')
-  use { "ellisonleao/gruvbox.nvim" }
+--  })
+--  use ({
+--      'doums/darcula',
+--      as = 'darcula',
+--      config = function()
+--          vim.cmd('colorscheme darcula')
+--      end
+--  })
+--  use({
+--      'Mofiqul/vscode.nvim',
+--      as = 'vscode',
+--      config = function()
+--          vim.cmd('colorscheme vscode')
+--      end
+--  })
+--  use { "ellisonleao/gruvbox.nvim" }
 
   use({
       "folke/trouble.nvim",
@@ -36,6 +44,11 @@ return require('packer').startup(function(use)
           }
       end
   })
+
+  use {
+	"windwp/nvim-autopairs",
+    config = function() require("nvim-autopairs").setup {} end
+    }
 
   use {
       'nvim-treesitter/nvim-treesitter',
@@ -85,6 +98,12 @@ return require('packer').startup(function(use)
   use("eandrju/cellular-automaton.nvim")
   use("laytan/cloak.nvim")
   use('ThePrimeagen/vim-be-good')
+  use('stevearc/oil.nvim')
 
+  -- obsidian
+  use("epwalsh/obsidian.nvim")
+
+  -- russian keymaps
+  use 'aveplen/ruscmd.nvim'
 end)
 
