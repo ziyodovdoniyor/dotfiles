@@ -52,6 +52,5 @@ o.colorcolumn = '70'
 o.shell= "/usr/bin/fish"
 o.smarttab = true
 o.showmode = true
-o.guifont = "Bahij Greta Arabic:h8"
+o.guifont = "Fira Code:h8"
 o.encoding = "utf-8"
-o.arabicshape = true

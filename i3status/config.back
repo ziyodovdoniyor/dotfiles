@@ -1,12 +1,11 @@
 general {
     interval 		= 1
-    colors 			= false
+    colors 			= true
     color_good      = '#98971a'
     color_degraded  = '#fabd2f'
     color_bad       = '#fb4934'
 }
 
-order += "tztime local"
 order += "volume master"
 order += "disk /"
 #order += "disk /home"
@@ -14,45 +13,49 @@ order += "wireless wlo1"
 order += "battery 0"
 order += "cpu_temperature 0"
 order += "cpu_usage 0"
+order += "tztime local"
 
 wireless wlo1 {
-    format_up = "WIFI:%essid"
+    format_up = "%quality    %essid"
     format_down = ""
 }
 
 battery 0 {
-    format = "%status:%percentage"
+    format = "%status  %percentage"
     format_down = ""
     last_full_capacity = true
     integer_battery_capacity = true
     low_threshold = 11
     threshold_type = percentage
     hide_seconds = true
-    status_chr = "CHARGING"
+    status_chr = " "
+    status_bat = " "
+    status_unk = " "
+    status_full = " "
 }
 
 tztime local {
-    format = "%H:%M:%S | %A |%e %B "
+    format = " %A; %e %B   %H:%M:%S"
 }
 
 cpu_usage {
-    format = "CPU:%usage"
+    format = " %usage"
 }
 
 cpu_temperature 0 {
-	format = "TEMP:%degrees°C"
+	format = " %degrees°C"
 }
 
 disk "/" {
-	format = "MEM:%avail"
+	format = " %avail"
 	prefix_type	= custom
 	low_threshold = 20
 	threshold_type = percentage_avail
 }
 
 volume master {
-    format = "VOL:%volume"
-    format_muted = "MUT"
+    format = " %volume"
+    format_muted = " "
     device = "default"
     mixer = "Master"
     mixer_idx = 0

@@ -6,4 +6,3 @@ exec --no-startup-id nitrogen --restore
 exec --no-startup-id unclutter -idle 20
 exec --no-startup-id clipmenud
 exec_always --no-startup-id autotiling
-exec_always --no-startup-id ~/.config/polybar/launch.sh

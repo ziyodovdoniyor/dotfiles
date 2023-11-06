@@ -24,12 +24,13 @@ alias hx helix
 alias vim nvim
 alias neo neovide
 
+set -gx EDITOR nvim
+
 setxkbmap -layout us,ru
 setxkbmap -option 'grp:alt_shift_toggle'
 
-set -gx EDITOR nvim
-
 set -gx PATH bin $PATH
+set -gx PATH ~/.config/emacs/bin/ $PATH
 set -gx PATH ~/bin $PATH
 set -gx PATH ~/.local/bin $PATH
 set -gx PATH ~/.config/i3/scripts/ $PATH
@@ -38,6 +39,8 @@ set -gx PATH ~/.config/i3/scripts/ $PATH
 set -gx PATH node_modules/.bin $PATH
 
 # Go
+set -x GOPATH $HOME/go
+set -x PATH $PATH $GOPATH/bin
 
 # NVM
 function __check_rvm --on-variable PWD --description 'Do nvm stuff'
